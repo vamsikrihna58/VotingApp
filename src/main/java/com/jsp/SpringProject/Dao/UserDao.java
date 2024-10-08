@@ -27,6 +27,8 @@ public class UserDao implements Serializable {
 		this.name=dao.getName();
 		this.adhar=dao.getAdhar();
 		this.cell=dao.getCell();
+		System.out.println("hi");
+		System.out.println("hi");
 		
 		
 	}
